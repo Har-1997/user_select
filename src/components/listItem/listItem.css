@@ -1,0 +1,50 @@
+.listUser{
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    border: 1px solid gray;
+    padding: 10px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+    background-color: lightgray;
+}
+
+.userImg{
+    width: 25%;
+    object-fit: cover;
+}
+
+.infoUserDiv{
+    width: 300px;
+}
+
+.userName{
+    margin-bottom: 30px;
+}
+
+.userPhone{
+    margin: 0px;
+}
+
+.iconsCont{
+    font-size: 20px;
+    margin-right: 10px;
+}
+
+.allInfoUserBtn{
+    font-size: 30px;                                
+    border: 0px solid;
+    background-color: transparent;
+    width: 75px;
+}
+
+.allInfoUserIcon, .arrowIcon{
+    font-size: 30px;
+    cursor: pointer;
+}
+
+
+
+
+
+
